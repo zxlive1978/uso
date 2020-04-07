@@ -1,0 +1,17 @@
+C:\Users\SERGE\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\codeserveer.Form1.resources
+C:\Users\SERGE\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\codeserveer.Properties.Resources.resources
+C:\Users\SERGE\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\codeserveer.csproj.GenerateResource.Cache
+C:\Users\SERGE\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Debug\codeserveer.exe
+C:\Users\SERGE\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Debug\codeserveer.pdb
+C:\Users\SERGE\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\codeserveer.exe
+C:\Users\SERGE\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\codeserveer.pdb
+C:\Users\SERGE\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\codeserveer.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Debug\codeserveer.exe
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Debug\codeserveer.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\codeserveer.Form1.resources
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\codeserveer.Properties.Resources.resources
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\codeserveer.exe
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\x86\Debug\codeserveer.pdb

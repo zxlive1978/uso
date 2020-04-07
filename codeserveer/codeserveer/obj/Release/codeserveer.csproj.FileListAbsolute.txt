@@ -1,0 +1,114 @@
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\codeserveer.Form1.resources
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\codeserveer.Properties.Resources.resources
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\codeserveer.exe.config
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\codeserveer.exe
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\codeserveer.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\CodeServer.dll
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\dcon_pc_dotnet.dll
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\log4net.dll
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\nmodbuspc.dll
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\codeserveer.exe
+C:\Documents and Settings\1\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\codeserveer.pdb
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\codeserveer.exe.config
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\codeserveer.exe
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\codeserveer.pdb
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\codeserveer.csprojResolveAssemblyReference.cache
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\codeserveer.Form1.resources
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\codeserveer.Properties.Resources.resources
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\obj\Release\codeserveer.csproj.GenerateResource.Cache
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\codeserveer.exe
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\codeserveer.pdb
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\CodeServer.dll
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\dcon_pc_dotnet.dll
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\log4net.dll
+C:\Users\Вероника\YandexDisk\Документы\codeserveer\codeserveer\codeserveer\bin\Release\nmodbuspc.dll
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\codeserveer.exe.config
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.exe
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.pdb
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\codeserveer.exe
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\codeserveer.pdb
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\CodeServer.dll
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\dcon_pc_dotnet.dll
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\log4net.dll
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\nmodbuspc.dll
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.csprojResolveAssemblyReference.cache
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.Form1.resources
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.Properties.Resources.resources
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.csproj.GenerateResource.Cache
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\codeserveer.exe.config
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\codeserveer.exe
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\codeserveer.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\CodeServer.dll
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\dcon_pc_dotnet.dll
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\log4net.dll
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\nmodbuspc.dll
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.Form1.resources
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.Properties.Resources.resources
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.exe
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\Realtime.dll
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\codeserveer.exe.config
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.exe
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.pdb
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.csprojResolveAssemblyReference.cache
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.Form1.resources
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.Properties.Resources.resources
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\obj\Release\codeserveer.csproj.GenerateResource.Cache
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\codeserveer.exe
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\codeserveer.pdb
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\CodeServer.dll
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\dcon_pc_dotnet.dll
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\log4net.dll
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\nmodbuspc.dll
+C:\Users\Вероника\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\Realtime.dll
+C:\Users\serge\YandexDisk\Документы\УСО\codeserveer\codeserveer\bin\Release\Realtime.dll
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\codeserveer.exe.config
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\codeserveer.exe
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\codeserveer.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\codeserveer.exe
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\codeserveer.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\CodeServer.dll
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\dcon_pc_dotnet.dll
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\log4net.dll
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\nmodbuspc.dll
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\Realtime.dll
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\codeserveer.Form1.resources
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\codeserveer.Properties.Resources.resources
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\GenerateResource.write.1.tlog
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\codeserveer.exe.config
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\codeserveer.exe
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\codeserveer.pdb
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\codeserveer.exe
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\codeserveer.pdb
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\CodeServer.dll
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\dcon_pc_dotnet.dll
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\log4net.dll
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\nmodbuspc.dll
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\bin\Release\Realtime.dll
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\codeserveer.csprojResolveAssemblyReference.cache
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\codeserveer.Form1.resources
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\codeserveer.Properties.Resources.resources
+C:\Users\user\YandexDisk\Документы\7052\codeserveer\codeserveer\obj\Release\codeserveer.csproj.GenerateResource.Cache
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\bin\Release\codeserveer.exe.config
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\obj\Release\codeserveer.exe
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\obj\Release\codeserveer.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\bin\Release\codeserveer.exe
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\bin\Release\codeserveer.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\bin\Release\CodeServer.dll
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\bin\Release\dcon_pc_dotnet.dll
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\bin\Release\log4net.dll
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\bin\Release\nmodbuspc.dll
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\bin\Release\Realtime.dll
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\obj\Release\codeserveer.Form1.resources
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\obj\Release\codeserveer.Properties.Resources.resources
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\УСО2\codeserveer\codeserveer\obj\Release\GenerateResource.write.1.tlog
